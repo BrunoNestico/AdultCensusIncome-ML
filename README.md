@@ -1,6 +1,7 @@
 # AdultCensusIncome-ML
 
 La repository contiene un Jupyter Notebook intitolato **"Adult_Census_Income.ipynb"**, realizzato per l'esame di *Machine Learning* dell'Università di Salerno (*UNISA*) per l'anno accademico **2024/2025**.
+Sviuluppato in collaborazione con @superfra01
 
 ## Descrizione
 
