@@ -3,6 +3,8 @@
 La repository contiene un Jupyter Notebook intitolato **"Adult_Census_Income.ipynb"**, realizzato per l'esame di *Machine Learning* dell'Università di Salerno (*UNISA*) per l'anno accademico **2024/2025**.
 Sviluppato in collaborazione con [superfra01](https://github.com/superfra01)
 
+Il dataset utilizzato è il **Adult Census Income**, originariamente rilasciato dal [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/adult), scaricato e pre-elaborato da [Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income).
+
 ## Descrizione
 
 L'obiettivo del progetto è addestrare modelli di machine learning per la previsione del livello di reddito delle persone, utilizzando il dataset *Adult Census Income*.  
